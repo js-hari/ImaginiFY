@@ -1,6 +1,6 @@
 import React from 'react'
 
-function TransformationsPage() {
+const TransformationsPage = () => {
   return (
     <div>
       TransformationsPage
@@ -9,3 +9,5 @@ function TransformationsPage() {
 }
 
 export default TransformationsPage
+
+

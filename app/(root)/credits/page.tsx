@@ -1,9 +1,9 @@
 import React from 'react'
 
-function CreditPage() {
+const CreditPage = () => {
   return (
     <div>
-      CreditPage
+      Credit Page
     </div>
   )
 }

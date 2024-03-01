@@ -1,9 +1,9 @@
 import React from 'react'
 
-function ProfilePage() {
+const ProfilePage = () => {
   return (
     <div>
-      ProfilePage
+      Profile Page
     </div>
   )
 }
